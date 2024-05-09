@@ -1,5 +1,17 @@
 {
+  "author": "beterraba",
+  "description": "",
   "dependencies": {
     "serverless-s3-sync": "^3.3.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "license": "ISC",
+  "main": "handler.js",
+  "name": "my-aws-project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "type": "module"
 }
